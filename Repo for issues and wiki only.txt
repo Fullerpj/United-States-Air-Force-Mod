@@ -1,1 +1,0 @@
-This repo is empty on purpose, we have a private repo elsewhere for development of the mod. This repo exists for the public issue tracker and wiki.
