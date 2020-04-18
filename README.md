@@ -1,12 +1,9 @@
 # Arma 3 USAF Mod
-## Official Issue Tracker and Wiki
-
 This repo exists solely for the public issue tracker and wiki.
 
-**[Issue Tracker](https://github.com/Fullerpj/United-States-Air-Force-Mod/issues)**
+### **[Issue Tracker](https://github.com/Fullerpj/United-States-Air-Force-Mod/issues)**
 
-Wiki:
-* **[Home](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/)**
+### **[Wiki](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/)**
 * **[Aircraft](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/Aircraft)**
 * **[Weapons](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/Weapons)**
 * **Systems**
