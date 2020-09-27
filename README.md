@@ -18,4 +18,3 @@ This repo exists solely for the public issue tracker and wiki.
   * [AAR: Receiver](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/aar-receiver-setup)
   * [Service Menu](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/Addon-Service-Menu-Setup)
   * [Afterburner](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/Addon-Afterburner-Setup)
-  * [Custom Livery Guide](https://github.com/Fullerpj/United-States-Air-Force-Mod/wiki/Custom-Livery-Guide)
